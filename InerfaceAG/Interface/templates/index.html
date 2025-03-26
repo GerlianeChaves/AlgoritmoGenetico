@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Truck Driver</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Truck Driver Logistica ltda.</h1>
+        <form id="travel-form">
+            <label for="numCities">Número de cidades:</label>
+            <input type="number" id="numCities" name="numCities" required>
+            <label for="distances">Matriz de distâncias (separada por vírgulas):</label>
+            <textarea id="distances" name="distances" rows="5" placeholder="Exemplo: 0,6,4\n6,0,7\n4,7,0"></textarea>
+            <button type="submit">Resolver</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
