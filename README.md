@@ -1,4 +1,4 @@
-<h1><p style="text-align: center; color: #f8f9fd; font-size: 2em;">Algoritmo Genético</p></h1>
+<h1><p align="center">Algoritmo Genético</p></h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -67,8 +67,8 @@ python appflask.py
 
 <h2>Resultados</h2>
 <div style="text-align: center;">
-    <img src="img/interfaceAG.png" style="width: 500px; margin-right: 10px;">
-    <img src="img/resultadoAG.png" style="width: 500px; margin-right: 10px;">
+    <img src="img/interfaceAG.png" style="width: 400px; margin-right: 10px;">
+    <img src="img/resultadoAG.png" style="width: 400px; margin-right: 10px;">
 </div>
 
 <!--<p align="center"> <img src="img/interfaceAG.png" alt="Interface" width="500"> </p> <h3 style="color: #f8f9fd;">
